@@ -1,2 +1,3 @@
 puts "Hello World"
-ptus "Second Line"	
+puts "Second Line"
+puts "Third line"
